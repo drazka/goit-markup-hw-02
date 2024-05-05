@@ -5,10 +5,10 @@ body {
   }
 
 .logo {
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 21px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-align: left;
     color: #4D5AE5;
@@ -25,7 +25,7 @@ body {
 }
 
 .internal-link{
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
@@ -46,7 +46,7 @@ body {
 }
 
 .contact-link {
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -60,10 +60,10 @@ body {
 }
 
 .title-text {
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     font-size: 56px;
     font-weight: 700;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #FFFFFF;
@@ -71,7 +71,7 @@ body {
 
 .title-button {
     background-color: #4D5AE5;
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
@@ -82,22 +82,22 @@ body {
 
 .title-button:active,
 .title-button:hover {
-    color: #404bbf;
+    background-color: #404bbf;
     cursor: pointer;
 }
 
 .description-header {
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: left;
     color: #2E2F42;
 }
 
 .description{
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -107,7 +107,7 @@ body {
 }
 
 .description-white{
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -122,7 +122,7 @@ body {
 }
 
 .section-header {
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     font-size: 36px;
     font-weight: 700;
     line-height: 40px;
