@@ -21,7 +21,7 @@ body {
 }
 
 .logo-studio-white {
-    color: #FFFFFF;
+    color: #f4f4fd;
 }
 
 .internal-link{
@@ -107,16 +107,6 @@ body {
 }
 
 .description-white{
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-align: left;
-    color: #F4F4FD;
-}
-
-.description-white-span {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;
