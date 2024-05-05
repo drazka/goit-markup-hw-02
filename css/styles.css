@@ -35,9 +35,9 @@ body {
 }
 
 .internal-link:hover,
-.internal-link:active,
+.internal-link:focus,
 .contact-link:hover,
-.contact-link:active {
+.contact-link:focus {
     color: #404bbf;
 }
 
@@ -78,12 +78,12 @@ body {
     letter-spacing: 0.04em;
     text-align: left;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
-.title-button:active,
+.title-button:focus,
 .title-button:hover {
     background-color: #404bbf;
-    cursor: pointer;
 }
 
 .description-header {
